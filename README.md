@@ -1,6 +1,8 @@
 # recipeAppReact
 Приложение по поиску рецептов, реализованное с использованием React, React Hooks. Получает список рецептов с внешнего API и предоставляет возможность динамического поиска.
 
+# GitHub Pages
+[Посмотреть!](https://mrsdante.github.io/recipeAppReact/)
 
 # Getting Started with Create React App
 
