@@ -1,5 +1,5 @@
 # recipeAppReact
-A recipe app that fetches a list of all recipes from external API and provide dynamic search functionality.
+Приложение по поиску рецептов, реализованное с использованием React, React Hooks. Получает список рецептов с внешнего API и предоставляет возможность динамического поиска.
 
 
 # Getting Started with Create React App
